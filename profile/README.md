@@ -1,2 +1,1 @@
-# .github
-描述
+# Sonus Nest
