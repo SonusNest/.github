@@ -1,11 +1,10 @@
-# Sonus Nest
 <p align="center">
   <a href="https://github.com/SonusTeam/Sonus">
     <img src="https://file.lingke.ink/sonus/sonus-en.webp" alt="Sonus Logo">
   </a>
 </p>
 
-<h1 align="center">Sonus</h1>
+<h1 align="center">Sonus Nest</h1>
 
 <p align="center">
   <a href="https://github.com/SonusTeam/Sonus/actions">
@@ -26,10 +25,6 @@
   <a href="https://discord.gg/Udq8xrruA3">
     <img src="https://img.shields.io/discord/yourserverid?style=flat-square&label=Discord" alt="Discord">
   </a>
-</p>
-
-<p align="center">
-  English | <a href="https://github.com/SonusTeam/Sonus/blob/master/README-ZH.md">简体中文</a>
 </p>
 
 Sonus is an open-source, lightweight cross-platform desktop application developed with Tauri + Rust. As a private music library management player, it not only manages music stored locally on the running device but also enables localized management of music in home private clouds (NAS) or remote servers via WebDAV and SMB protocols.
